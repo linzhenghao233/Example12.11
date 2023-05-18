@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="diceroll.c" />
+    <ClCompile Include="manydice.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="diceroll.h" />
